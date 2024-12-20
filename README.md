@@ -43,7 +43,7 @@ Hello! I'm **Iradium**, a passionate **Fullstack Developer** from **France**. I'
 
 ## 🖥️ My PC Setup
 
-Here are my main PC components displayed as GitHub-style buttons:
+Here are my main PC components:
 
 [![Processor](https://img.shields.io/badge/Processor-Intel%20Core%20i5%2013th%20gen-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/)
 [![Graphics](https://img.shields.io/badge/Graphics-NVIDIA%20RTX%204070%20ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/)
